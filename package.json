@@ -1,0 +1,28 @@
+{
+  "name": "gax",
+  "version": "1.0.0",
+  "description": "事件发布,消息订阅",
+  "main": "gax.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gavinning/gax.git"
+  },
+  "keywords": [
+    "radio",
+    "tree",
+    "event",
+    "event",
+    "handler",
+    "事件发布",
+    "消息订阅"
+  ],
+  "author": "gavinning",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gavinning/gax/issues"
+  },
+  "homepage": "https://github.com/gavinning/gax#readme"
+}
